@@ -31,6 +31,19 @@ More detailed announcement is here (in English) (TBD) and here (in Russian) (TBD
 
 If you've got lingering questions, suggestions, or just want to see the gang face-t-face, hop into the **[kick-off meeting](https://github.com/aigoncharov/ml_misfits/issues/7)** (or drop by in person if you're in London).
 
+## How to lead a course
+
+1. Solemnly swear you will
+    1. Run weekly meetings
+    2. Prepare homework assignments
+    3. Take meeting notes
+    4. Publish homework solutions
+    5. Carry out leadership duties until the end of the course
+2.  Create a new issue for the course
+    1. Follow [the template](https://github.com/aigoncharov/ml_misfits/issues/8) (currently WIP, will finish it by June 30)
+    2. Assign label "course"
+3. Run the course and have fun! In case of trouble, reach out to [Andrey](https://github.com/aigoncharov/ml_misfits/issues/1#issue-3167341671)
+
 ## FAQ
 
 TBD
