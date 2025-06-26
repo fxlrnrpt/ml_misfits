@@ -6,6 +6,8 @@ After crying into my pillow, I decided that knowledge can't just be given - you 
 
 More detailed announcement is here (in English) (TBD) and here (in Russian) (TBD).
 
+Associated Telegram chat with mostly Russian-speaking folks - https://t.me/+HEH3Aq_OfT83YmE8
+
 ## How to join
 
 **This GitHub repo  has (or soon will have)**:
@@ -28,8 +30,6 @@ More detailed announcement is here (in English) (TBD) and here (in Russian) (TBD
 - Whenever possible we pick content in English to welcome all the rejected folks, whatever their language skills. Quality still comes first, though. For historical reasons and due to my origin I know some exceptional content that is currently in Russian only. So, you might see a course here and there where we go through a course in Russian. Anyone is more than welcome to join, but you will have to take care of the translation yourself.
 
 **Hooray**! We've built a home for everyone who didn't get accepted anywhere. Time to ship it to prod-see you on the first calls!
-
-If you've got lingering questions, suggestions, or just want to see the gang face-t-face, hop into the **[kick-off meeting](https://github.com/aigoncharov/ml_misfits/issues/7)** (or drop by in person if you're in London).
 
 ## How to lead a course
 
