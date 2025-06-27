@@ -4,7 +4,7 @@ Hello ~~darkness my old friend~~ 👋
 My name is Andrey and this year I have been rejected from every research program, internship, and summer school I applied to. 
 After crying into my pillow, I decided that knowledge can't just be given - you have to take it yourself; so it's time to launch my own summer (ish) school / research-padawan community ~~with blackjack and hookers~~. An educational-research community for the misfits. There'll be deadlines, rigorous homework assignments, and, most importantly, a bunch of equally passionate people right by your side.
 
-More detailed announcement is here (in English) (TBD) and here (in Russian) (TBD).
+More detailed announcement is [here](https://blog.goncharov.page/ml-misfits-club-or-what-to-do-when-nobody-wants-you) (in English) and [here](https://vas3k.club/post/28799/) (in Russian).
 
 Associated Telegram chat with mostly Russian-speaking folks - https://t.me/+HEH3Aq_OfT83YmE8
 
@@ -23,8 +23,10 @@ Associated Telegram chat with mostly Russian-speaking folks - https://t.me/+HEH3
 - Introduce yourself in the [whois](https://github.com/aigoncharov/ml_misfits/issues/1) thread;
 - Pick an [interesting course from the list](https://github.com/aigoncharov/ml_misfits/issues?q=is%3Aissue%20state%3Aopen%20label%3Acourse), subscribe to notifications, and join the calls or face-to-face sessions;
 - If the course you crave isn't listed, create your own TODO and rally a crew the same way;
-- Find a [suitable spot for in-person nerd-outs](https://github.com/aigoncharov/ml_misfits/issues?q=is%3Aissue%20state%3Aopen%20label%3Alocation) or set up your own;
 - Hunt for or post research ideas [here](https://github.com/aigoncharov/ml_misfits/issues/4).
+
+**In-person meetups:**
+- We gather together for in-person nerd outs at the Member's Room of [The British Library](https://maps.app.goo.gl/E3mZqSQADr4rvLnQA) on Tue and Thur usually from 10 AM to 5 PM. Join the [Telegram chat](https://t.me/+HEH3Aq_OfT83YmE8) or [reach out directly](https://github.com/aigoncharov/ml_misfits/issues/1#issue-3167341671) if you want to come as a guest and join the gang.
 
 **Notes**:
 - Whenever possible we pick content in English to welcome all the rejected folks, whatever their language skills. Quality still comes first, though. For historical reasons and due to my origin I know some exceptional content that is currently in Russian only. So, you might see a course here and there where we go through a course in Russian. Anyone is more than welcome to join, but you will have to take care of the translation yourself.
