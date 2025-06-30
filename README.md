@@ -45,7 +45,7 @@ Associated Telegram chat with mostly Russian-speaking folks - https://t.me/+HEH3
     4. Publish homework solutions
     5. Carry out leadership duties until the end of the course
 2.  Create a new issue for the course
-    1. Follow [the template](https://github.com/aigoncharov/ml_misfits/issues/8) (currently WIP, will finish it by June 30)
+    1. Follow [the template](https://github.com/aigoncharov/ml_misfits/issues/6)
     2. Assign label "course"
 3. Run the course and have fun! In case of trouble, reach out to [Andrey](https://github.com/aigoncharov/ml_misfits/issues/1#issue-3167341671)
 
