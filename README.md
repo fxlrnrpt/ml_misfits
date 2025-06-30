@@ -6,6 +6,8 @@ After crying into my pillow, I decided that knowledge can't just be given - you 
 
 More detailed announcement is [here](https://blog.goncharov.page/ml-misfits-club-or-what-to-do-when-nobody-wants-you) (in English) and [here](https://vas3k.club/post/28799/) (in Russian).
 
+Most important news and updates - https://github.com/aigoncharov/ml_misfits/issues/9
+
 Associated Telegram chat with mostly Russian-speaking folks - https://t.me/+HEH3Aq_OfT83YmE8
 
 ## How to join
@@ -24,6 +26,7 @@ Associated Telegram chat with mostly Russian-speaking folks - https://t.me/+HEH3
 - Pick an [interesting course from the list](https://github.com/aigoncharov/ml_misfits/issues?q=is%3Aissue%20state%3Aopen%20label%3Acourse), subscribe to notifications, and join the calls or face-to-face sessions;
 - If the course you crave isn't listed, create your own TODO and rally a crew the same way;
 - Hunt for or post research ideas [here](https://github.com/aigoncharov/ml_misfits/issues/4).
+- [Subscribe](https://github.com/aigoncharov/ml_misfits/issues/9) to the most important news and updates
 
 **In-person meetups:**
 - We gather together for in-person nerd outs at the Member's Room of [The British Library](https://maps.app.goo.gl/E3mZqSQADr4rvLnQA) on Tue and Thur usually from 10 AM to 5 PM. Join the [Telegram chat](https://t.me/+HEH3Aq_OfT83YmE8) or [reach out directly](https://github.com/aigoncharov/ml_misfits/issues/1#issue-3167341671) if you want to come as a guest and join the gang.
