@@ -29,7 +29,7 @@ Associated Telegram chat with mostly Russian-speaking folks - https://t.me/+HEH3
 - [Subscribe](https://github.com/aigoncharov/ml_misfits/issues/9) to the most important news and updates
 
 **In-person meetups:**
-- We gather together for in-person nerd outs at the Member's Room of [The British Library](https://maps.app.goo.gl/E3mZqSQADr4rvLnQA) on Tue and Thur usually from 10 AM to 5 PM. Join the [Telegram chat](https://t.me/+HEH3Aq_OfT83YmE8) or [reach out directly](https://github.com/aigoncharov/ml_misfits/issues/1#issue-3167341671) if you want to come as a guest and join the gang.
+- We gather together for in-person nerd outs at the Member's Room of [The British Library](https://maps.app.goo.gl/E3mZqSQADr4rvLnQA) on Thur and Fri usually from 10 AM to 5 PM. Join the [Telegram chat](https://t.me/+HEH3Aq_OfT83YmE8) or [reach out directly](https://github.com/aigoncharov/ml_misfits/issues/1#issue-3167341671) if you want to come as a guest and join the gang.
 
 **Notes**:
 - Whenever possible we pick content in English to welcome all the rejected folks, whatever their language skills. Quality still comes first, though. For historical reasons and due to my origin I know some exceptional content that is currently in Russian only. So, you might see a course here and there where we go through a course in Russian. Anyone is more than welcome to join, but you will have to take care of the translation yourself.
