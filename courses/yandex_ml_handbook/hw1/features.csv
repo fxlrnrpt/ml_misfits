@@ -1,0 +1,1007 @@
+feature_id,feature_name
+1,prepress_and_post_printing_processing
+40,products
+54,printing_method
+77,fuel
+79,shop
+82,last_minute_deals_only
+104,tour_type
+110,audio_guide
+111,cargo_transportation
+113,manufacturing
+114,installation
+115,repairs
+116,production
+117,sale
+133,music_genre
+135,electroniccigarette
+137,variety_food
+140,room_disabled
+175,arts
+246,karaoke
+249,street_theatre
+253,performance
+256,vip_zone
+270,money_transfers
+275,loans_private_individuals
+282,sober_driver
+288,accepted_credit_cards
+305,refrigerator
+308,minibar
+312,room_number
+328,speciality
+337,type_of_rooms
+344,building_repair
+349,hospital_profile
+354,type_parking
+372,services_corporate_clients
+379,currency_exchange
+392,debit_cards
+402,improving_driver_qualifications
+405,female_instructor
+409,medical_board
+425,training_machines
+427,target_audience
+433,business_lending
+444,has_restaurant
+447,air_conditioning
+536,country
+540,online_sales
+542,stadium_type
+545,car_valeting
+594,pro_shop
+598,body_repair
+601,car_park
+602,hair_removal
+636,imax
+726,cosmetology_services
+790,pets
+795,hotel_type
+803,massage_services
+873,leasing_registration
+883,3d
+956,railway_tickets
+962,services_specialists
+980,trade_in
+983,star
+989,form_of_training
+995,staging_of_dancing_routines
+1018,food_delivery
+1054,car_wash
+1059,additional_services
+1070,official_dealer
+1075,pool
+1091,atm
+1104,loan_processing
+1113,registration_inspection
+1124,car_brand
+1131,online_recording
+1246,type_of_museum
+1257,test_drive
+1261,flights
+1271,cash_desk
+1413,sauna
+1415,nursery
+1416,type_cuisine
+1509,special_menu
+1524,type_public_catering
+1572,type_waterpark
+1573,childrens_town
+1575,water_purification_method
+1582,water_activities
+1587,wave_pool
+1589,pool_type
+1592,number_of_swimming_lanes
+1600,group_classes
+1627,gym
+1629,sport_game
+1651,martial_arts
+1702,covering
+1703,dance
+1753,hairdressing_services
+1783,types_of_tanning_beds
+1796,figure_correction
+1819,nail_procedures
+1840,for_children
+1877,vehicle_fleet
+1879,training_category
+1888,holding_of_bowling_tournaments
+1889,conducting_pool_tournaments
+1891,storage_of_client_pool_equipment
+1892,storage_of_client_bowling_equipment
+1893,billiard_school
+1894,bowling_for_children
+1897,bowling_school
+1900,wedding_dances
+1903,artists_for_events
+1935,services_veterinary_clinic
+1937,state
+10427,price_delivery
+10428,hall_capacity
+10429,price_hour
+10430,time_order
+10434,tickets
+10437,washing_zones
+10440,russian_billiard
+10441,track_length
+10442,year_of_foundation
+10447,kalyan
+10448,price_evening
+10449,price_per_hour_sauna2
+10450,price_taxi
+10451,price_per_month3
+10459,women_haircut
+10462,average_bill2
+10463,price_8
+10470,hall
+10480,cartridge
+10481,water_stuff
+10487,price_1
+10502,pool_backflow
+10506,sports_medicine
+10512,outfit
+10513,baggage_room
+10514,skate_rental
+10515,skate_sharpening
+10518,kids_club
+10556,weekend_group
+10557,language
+10560,door_type
+10563,spa
+10564,type_food
+10565,visa_support
+10580,bridal_assortment
+10588,laundry
+10596,minimum_order
+10597,natural_reservoir
+10600,admission_by_appointment
+10656,wheel_alignment
+10668,car_rental
+10669,animal_transportation
+10676,kindergarden_features
+10718,clothes_and_shoe_repairs
+10722,beauty_salon
+10744,dry_cleaners_
+10746,shop_types
+10760,regions_of_the_world
+10768,home_visit
+10770,face_control
+10782,auto_sales
+10803,goods_for_animals
+10804,travel_insurance
+10824,training_duration
+10829,personal_trainer
+10832,exercises_for_pregnant_women
+10833,annual_subscription
+10835,internet_shop
+10836,urgent_printing
+10840,vip_taxi
+10843,corporate_taxi
+10847,child_seat
+10849,courier_delivery
+10853,ceremonies
+10859,airport_and_railway_transfers
+10870,dentist_services
+10875,show_program
+10886,music
+10888,chillout
+10894,dancefloor
+10896,dress_code
+10898,for_kids
+10900,billiards
+10912,delivery_medicines
+10921,trampoline
+10966,price_per_month2
+11006,piercing
+11012,cafe
+11022,solarium
+11032,childrens_fitness
+11082,car_polishing
+11097,transfer
+11106,steam
+11145,entertainment
+11165,man_haircut
+11167,tattoo
+11172,shower
+11177,breakfast
+11187,auto_insurance_type
+11190,number_of_halls
+11216,pool_tables
+11230,tire_fitting
+11305,marktet_types
+11389,mother_and_child_room
+11496,number_pool
+11531,seats
+11615,photo_studio
+11617,takeaway
+11629,summer_terrace
+11634,free_delivery
+11638,car_servicing
+11642,car_wash_type
+11657,car_waxing
+11658,tire_blacking
+11661,wheel_balancing
+11663,vulcanization
+11700,aquarium
+11703,clothes_fitting
+11704,wi_fi
+11705,tailoring
+11707,embroidery
+11709,strip
+11721,shooting
+11722,tailoring_of
+11731,photo_printing
+11741,gift_certificate
+11758,photo_processing
+11774,price_1_min
+11827,wide_format_printing
+11828,riding
+11830,implants
+11832,scarification
+11834,tongue_splitting
+11835,video_digitization
+11836,suspension
+11838,snooker_table
+11839,delivery
+11840,tattoo_training
+11842,wet_cleaning
+11843,body_art
+11847,cleaning_services
+11848,theater_type
+11862,window_and_glass_cabinet_washing
+11864,fur_coat_storage
+11865,extreme_driving
+11867,business_lunch
+11870,dress_hire_and_tailoring
+11878,dresses
+11881,wedding_planning
+11882,work_with_individuals
+11883,additional_services_cars
+11886,additional_services_gas_station
+11895,brokencars
+11896,online_photo_printing
+11897,spa_services
+11904,infrared_sauna
+11906,hydro_massage_pool
+11909,shopping_advice
+11912,pilgrimage_service
+11913,photo_shoot
+11915,terrariums
+11916,wardrobe_analysis
+11920,make_up_style
+11930,wardrobe_makeover
+11933,dry_cleaning
+11935,color_analysis
+11936,internet_in_hotel
+11944,individual_training
+11948,master_classes
+11951,elevator
+11953,training_material
+11957,yoga_for_children
+11959,number_of_attraction
+11961,bbq
+11963,yoga_lesson_programs
+11967,eye_tests
+11968,back_treatment
+11970,fishing
+11972,yoga_seminars
+11977,lagoon
+11978,for_teachers
+11981,childrens_pool
+11982,fito_bar
+12015,opticians_services
+12047,tour_operators
+12048,payment_method
+12172,restorative_program
+12174,refueling_truck
+12178,auto_gas_station
+12193,table_tennis
+12195,dressing_room
+12196,insurance_services
+12198,animation_staff
+12200,insurance_type
+12203,rental
+12204,assortment_of_cake_fillings
+12206,cakes_for_different_occasions
+12209,ice_rink
+12210,corporate_events
+12212,self_service
+12243,fuel_cards
+12288,handicraft_type
+12290,handicraft_stores
+12292,type_windows
+12294,services_windows
+12303,windows_accessories
+12309,price_room
+20278,foregn_language_children
+20279,basic_service
+20280,hall_rental
+20282,price_cup_cappuccino
+20283,4dx
+20285,cooperation_with_courier_services
+20288,legal_services_in_housing
+20291,plugtype
+20299,sport_place
+20303,types_motorcycles
+20304,price_rolls
+20305,beer_price
+20307,truck_tire_service
+20308,mobile_tire_service
+20309,dry_cleaning_home
+20328,national_library
+20329,public_library
+20330,technical_library
+20331,special_library
+20345,payment_by_parkmachine
+20346,payment_by_app
+20365,authorized_service
+20370,types_of_cosmetology
+20399,sport_activities
+20400,tires_on_all_wheels
+20402,classic_female_manicure_coated
+20403,labor_time
+20404,garbage_can
+20405,toilet
+20407,preliminary_registration
+20411,the_number_of_places_in_the_room
+20422,payment_by_credit_card
+20424,price_category
+20440,object
+20442,child_psychologist
+20459,watch
+20461,wrist_watch
+20490,for_cat
+20522,direction_college
+20536,level_training
+20539,form_high_school
+20541,for_dog
+20583,privately
+20600,areas_training
+20642,bicycle_trips
+20643,price_rental
+20660,types_tires
+20671,tennis_coverage
+20703,number_lanes
+20711,cost_hiring
+20713,car_body_cleaning_cost
+20725,iceloadingreagents
+20730,services_individuals
+20736,registration_liquidation_companies
+20742,medical_certificate
+20745,price_bed
+20757,data_recovery
+20779,types_wheels
+20793,medical_diagnostics
+20819,outdoor_skating_rink
+20850,preparatory_courses
+20853,nail_artdesign
+20854,parking_tariff
+20864,anonymous_medical
+20875,medical_specialists
+20877,types_heating_systems
+20880,hogh_school_ownship
+20881,weapons
+20896,types_massage
+20915,keep_tires
+20939,manicure_bin
+20987,research_library
+20988,fitness_services
+21001,library_blind
+21025,school_direction
+21032,sport
+21050,car_repairs
+21063,specialization_clinic
+21068,school_uniform
+21074,balancerental
+21079,sport_painball
+21083,types_of_print
+21100,urgent_photo
+21109,indoor_skating_rink
+21110,types_roofing_materials
+21118,creche
+21121,night_paintball
+21131,school_paintball
+21149,sports_rent
+21174,express_delivery
+21177,photo_lab
+21181,beauty_services
+21186,open_courts_number
+21199,pedicure_bin
+21200,specialized_schools
+21210,boutique
+21216,organic_food
+21238,per_first_hour
+21247,sports_broadcasts
+21275,kinds_of_cars
+21299,pc_brand
+21305,legal_entities
+21319,music_profession
+21322,holding_tournaments
+21323,range_bike
+21328,speech_therapist
+21346,type_clock
+21366,wholesale
+21376,flour
+21379,brand_mobile
+21380,wedding_floristry
+21397,style_men
+21451,paid
+21462,winter_paintball
+21506,nail_extension_2
+21530,video_shooting
+21535,sport_school_type
+21546,free
+21568,autovinil
+21576,interior_partitions
+21607,regional_library
+21615,age_category
+21618,metal_items_repair
+21619,types_paintball_sites
+21620,type_paintball
+21644,indoor_courts_number
+21657,subscription
+21662,tire_services
+21707,vaccination
+21720,additional_services_shooting
+21721,medical_clothing
+139550717,reconstruction_year
+139550722,beach_line
+139550723,children_playground
+144134373,emergency_gas_service
+144134379,servicing_vip_clients
+144134385,aluminum_composite_panels
+144134386,forklift_trucks
+144134388,services_for_individuals
+144134398,asbestos
+144134399,repair_of_clothing
+144134401,anti_corrosion_treatment
+144134411,geodetic_works
+144134413,geological_surveying
+144134414,types_household_appliances
+261704114,limited_access
+261948609,homeopaths
+262454212,childrens_music_school
+262726483,automotive_parts
+263427293,barbecue_rent
+263427294,picnic_area
+263622858,on_beach
+270844457,conferencing_systems
+270844458,confectionary_equipment
+270844459,refuse_and_street_sweeping_vehicles
+270844460,cat_fanciers_club
+270844461,dog_club
+273283228,types_of_foods
+273469383,coffee_to_go
+273469384,running_club
+273726619,monitor_repair
+273863372,dairy_equipment
+273863373,meat_processing_equipment
+273863374,lightening_rods
+273863375,business_telephone_system
+273863377,metal_tableware
+273863378,glass_furniture
+273863379,outboard_motors
+273863380,medical_glass
+274202565,ice_cream_production_equipment
+274202566,brick_production_equipment
+274202567,real_estate_abroad
+275672861,hall_for_women
+277103989,disability_organization
+277103990,cranes
+277103991,veterans_organization
+279023801,insulation_types
+279198317,available_for_animals
+279198318,nudist_beach
+282978247,frameless_furniture
+283100856,educational_literature
+283679224,cement_production_equipment
+283780512,trading_show_windows
+283780513,monument_protection_and_restoration
+284707111,handmade_goods
+284787817,spirits
+284787818,fish_processing_equipment
+284787819,types_of_advertising
+285289832,mccafe
+285289833,mcauto
+285360299,appliance_repair
+285390725,backpacks
+285491484,orthopedic_shoes
+285491485,footwear_types
+285979812,electric_motor_repairs
+286637396,glassware
+286637397,surge_protectors
+286637399,construction
+286760671,kinds_electronics
+290008589,ultrasonic_equipment
+290008590,transformers
+310972649,management_consulting
+310972650,baking_equipment
+340529552,loyalty_card
+343097186,porcelain
+343400806,banners
+357035380,arrangement_of_fountains_and_water_bodies
+370891644,polymer_piping_systems
+370891875,protection_of_copyrights
+370891876,civil_engineering
+370891877,investment_and_development_organization
+370891878,refrigerated_transport
+411925571,cards_and_envelopes
+414319396,sky_lights
+421346942,cctv
+421346943,offices_for_rent
+421346944,rent_apartments
+812162416,service_of_carpet_cleaning
+840026754,hockey_playground
+840026755,hockey_school
+840026756,figure_skating_school
+840026757,coating_roller
+856448080,public_bath
+856448081,detectors_of_banknotes
+856448082,money_counters
+948581684,office_or_warehouse
+956707375,construction_and_design_organization
+976365376,postpay1
+976365377,high_speed_fuel_dispenser
+1010409666,stoloto
+1076799212,mcexpress
+1082283206,features_institution
+1116173085,vocal_lessons
+1116173086,around_the_clock_work1
+1116173087,self_service_kiosks
+1189498238,food_court1
+1602431352,diesel_service
+2020795524,craft_beer
+2995866956,removing_dents_without_painting
+3013110545,for_disabled_people
+3481212270,vehicle_category
+3481212271,electricity_costs
+3483661991,burger_king_cafe
+3483661992,burger_king_auto
+3483661993,kfc_cafe
+3483661994,kfc_auto
+3483778357,subscription_fee
+3483778358,parking_24h
+3483837590,parking_price
+3484586475,confession
+3485375347,gyno_cost
+3485438928,ultrasound_price
+3491142672,parking_disabled
+3491465406,privilege_tickets
+3491465421,privilege_haircut
+3491580623,hire_price_day
+3491623595,bike_rental_rate
+3491713232,doctor home visit
+3492024821,without_address
+3492120803,new_building
+3492120822,elite_real_estate
+3492121086,country_estate
+3492176323,operator_id
+3493051166,ssid
+3493268424,barbershop
+3500005740,only_pre_order
+3501410074,azs_number
+3501410396,azs_flag
+3501424584,unit_id
+3501471642,business lunch price
+3501471649,pvc boats
+3501474505,price_room_hour
+3501480642,has_bar
+3501480644,has_conference_halls
+3501480645,territory_size
+3501480656,kids_pool
+3501481353,projector
+3501481355,number of screens
+3501481491,free shuttle
+3501482162,icon
+3501488776,quests types
+3501492237,laser gravure
+3501497890,hard cover
+3501498182,rooms with soundproofing
+3501498183,aquapark
+3501498184,hairdryer
+3501498186,kitchen in the room
+3501498187,shared kitchen
+3501498188,tea coffee in rooms
+3501498189,TV in room
+3501498190,bathhouse
+3501498191,business center
+3501498193,hammam
+3501498194,babysitting service
+3501498195,jacuzzi
+3501498196,bathrobe
+3501498197,slippers
+3501498198,washing machine
+3501498199,iron
+3501498200,cleaning
+3501498201,childrens club
+3501498202,ski equipment hire
+3501498203,ski storage space
+3501498204,ski to door access
+3501498205,sale of ski pass
+3501498206,mandatory deposit
+3501498207,adults only
+3501498208,lgbt friendly
+3501498209,heating
+3501498210,combined rooms
+3501498211,deckchairs
+3501498212,beach umbrella
+3501498213,beach towels
+3501498214,free umbrellas deckchairs
+3501498215,veranda terrace patio
+3501498216,beach bar
+3501498217,ventilator
+3501498218,rooms for smokers
+3501498367,mortage
+3501498368,decoration
+3501498369,econom
+3501498370,developer
+3501498371,number of bars
+3501498372,number of restaurants
+3501498379,internet access
+3501498382,parking type
+3501498389,free transfer
+3501498568,around the clock front desk
+3501498569,public area
+3501498588,sports types
+3501500016,hotel_type_tech
+3501501061,1c software
+3501501062,non smoking rooms
+3501501063,private beach
+3501501064,room service
+3501501235,ping pong
+3501502225,wired_internet
+3501503649,goods delivery
+3501509021,meeting room
+3501509022,shared toilet
+3501509023,poolside bar
+3501509024,fireplace
+3501509025,valet parking
+3501509026,game room
+3501509027,waterslides
+3501509028,parking for yachts
+3501509029,electric car charging station
+3501509030,express check in out
+3501509031,evening entertainment
+3501509032,doctor
+3501509033,butler
+3501509034,pharmacy
+3501509035,ski school
+3501509037,gaming house
+3501509041,type of transfer
+3501509042,safe
+3501509045,safe type
+3501509475,bath
+3501509914,check in
+3501509940,check out
+3501510638,forensic examination
+3501513153,tag_menu
+3501519747,ems training
+3501522239,sensitive
+3501525722,mental arithmetic
+3501534098,ice rental
+3501539205,vinotheque
+3501543756,materials for nails
+3501546132,loan secured by real estate
+3501547180,type of animal
+3501549616,tag_beauty
+3501549733,tag_medicine
+3501549840,tag_auto
+3501566088,cinder blocks
+3501567639,literature for children
+3501569758,motorcycle brands
+3501572104,classes for children
+3501577089,europallets
+3501583166,free consultation
+3501583611,modular cargo
+3501583614,long distance taxi
+3501583622,dental treatment in installments
+3501583627,mens spa
+3501583680,cosmetology for men
+3501583907,manual alert systems
+3501583920,tattoo removal
+3501583942,turbine repair
+3501586968,land management expertise
+3501586983,montessori
+3501587292,free examination
+3501587293,preparation for exam
+3501594247,design of the fountains
+3501596642,tobacco labeling
+3501599455,cryosauna
+3501599535,facilities for disabled people
+3501599537,slot machines
+3501599538,hairdresser
+3501599541,menu for children
+3501599543,baby cots
+3501599554,kitchen equipment
+3501599561,hotel garden
+3501599563,vineyard
+3501599566,vending machines with snacks
+3501599567,garage
+3501599570,hire
+3501599571,concierge service
+3501599572,banquet hall
+3501599575,doorman
+3501599585,business center equipment
+3501599586,allergy free room
+3501599587,number of meeting rooms
+3501599588,disco
+3501599593,theater
+3501599594,ice rink
+3501599597,wine tasting
+3501599603,cleaning frequency
+3501599604,health centre
+3501599610,bellboy
+3501599676,animal accommodations
+3501599677,animal care
+3501599682,animals allowed to be accommodated
+3501599691,restrictions on living with animals
+3501604484,wax seals
+3501604516,gastronorm containers
+3501604850,moto equipment
+3501604974,paper package
+3501610669,tillers
+3501611178,galvanized beds
+3501613146,types of electrical products
+3501613588,photo_retouching
+3501616848,hotel_price_category
+3501616913,welding_works
+3501618484,wheelchair_access
+3501619158,alcohol_license
+3501619188,repair_knitwear
+3501620046,bubble_film
+3501621367,kinesis_training
+3501621377,agronavigators
+3501621378,parallel_driving_systems
+3501621382,cups_medals
+3501621388,drones_quadcopters
+3501621391,chipboard_cutting
+3501623871,cigars_cigarillos
+3501626676,motorcycle_tire_repair
+3501626694,aerocrete
+3501627295,onsite_diagnostics_cars
+3501629404,repair_of_refrigerated_trucks
+3501631840,gift_wrapping
+3501631894,tax_free
+3501637468,level
+3501637602,self_car_service
+3501638584,field_repair_of_phones
+3501638601,flowers_in_flask
+3501639433,karting_prices
+3501640731,foodcourt
+3501640735,plotter_cutting
+3501640737,only_under_order
+3501643038,transport_refrigeration_equipment
+3501643039,anti_gravity_film
+3501643040,caviar_store
+3501647385,dress_hire
+3501649263,auto_generated_food_filter
+3501652258,mens_nail_services
+3501656640,fight_club
+3501656641,calculation_of_insolation
+3501657208,rating_of_moscow_schools
+3501668257,sweet_gifts
+3501674400,breakfast_included
+3501674401,free_cancellation
+3501674501,brand_office_equipment
+3501675316,farm_products
+3501677065,vinyl
+3501677091,registration_of_medical_devices
+3501678436,coaching
+3501679779,aquaprint
+3501679846,purchase_of_radio_components
+3501680348,medical_pedicure
+3501682169,vintage_clothing
+3501682201,self_storage_warehouse
+3501682216,night_groups
+3501682700,excursions_for_schoolchildren
+3501684957,hair_transplantation
+3501685156,table_games
+3501687599,storage_of_motorcycles
+3501689802,repair_of_game_consoles
+3501689804,quadcopter_repair
+3501692956,bio_cleaning
+3501693369,flight_simulator
+3501694289,teahouse
+3501694323,goods_for_bakery
+3501694325,cedar_barrel
+3501694353,builtin_appliances
+3501700359,freight_car_service
+3501703400,courses_for_elderly
+3501704145,crm_implementation
+3501707180,type_of_deal
+3501707183,rental_period
+3501707201,assessment_qualification_employees
+3501708144,accommodation_type
+3501708666,wine_tasting
+3501710354,indoor-plan-id
+3501710419,dancing_for_beginners
+3501710426,extended_day_group
+3501711656,disposable_clothing
+3501711661,products_for_hairdressers
+3501712327,earpieces
+3501713908,baby_massage
+3501715376,hatches
+3501721033,equipment_for_tattoo
+3501721629,air_walks
+3501722842,iqos_repair
+3501725224,transportation_storage_dangerous_goods
+3501725225,spare_parts_for_restaurant_equipment
+3501727103,pressure_chamber
+3501729440,repurchase_of_insurance_debts
+3501734268,thermobags
+3501734280,coworking
+3501735971,large_format_scanning
+3501738022,gong_meditation
+3501738031,buying_up_radio_devices
+3501739378,vr_ar_development
+3501739652,rating_threshold
+3501743496,restoration_down_feather_products
+3501744275,closed_for_quarantine
+3501745827,food_product_delivery
+3501747162,cyclorama
+3501748140,professional_cosmetics
+3501749289,closed_for_visitors
+3501749391,payment_from_car
+3501751270,online_classes
+3501751965,educational_consulting
+3501752548,installation_of_acoustic_systems
+3501754118,led_street_lighting
+3501754121,industrial_led_lighting
+3501754799,pickup
+3501759226,hookah_rental
+3501759265,types_of_equipment
+3501759464,cast_iron_cookware
+3501765089,bread_from_tandoor
+3501766414,groups_for_adults
+3501769429,trailer_repair
+3501769434,coffee_shop
+3501769723,covid_hotel_safety_air_disinfection
+3501769724,covid_hotel_safety_sanitizers
+3501769725,covid_hotel_safety_employees_use_personal_protective_gear
+3501769739,covid_hotel_safety_thermometry
+3501769740,covid_hotel_safety_marking_floor
+3501769741,covid_hotel_safety_isolation
+3501769751,covid_hotel_safety_placing_tables_at_distance
+3501769752,covid_hotel_safety_washing_at_high_temperatures
+3501769755,covid_hotel_safety_barriers
+3501769756,covid_hotel_safety_сontactless_check_out
+3501769757,covid_hotel_safety_employee_training
+3501769758,covid_hotel_safety_сontactless_room_service
+3501769759,covid_hotel_safety_disinfection_contact_surfaces
+3501769760,covid_hotel_safety_disinfection_surfaces_rooms
+3501769761,covid_hotel_safety_disinfection_dining_halls
+3501769762,covid_hotel_safety_disinfection_storage_facilities
+3501769763,covid_hotel_safety_disinfection_gyms_and_spa
+3501769765,covid_hotel_safety_disinfection_equipment_in_open_spaces
+3501770296,buying_cartridges
+3501772560,canteen
+3501772561,childrens_corner
+3501773763,automatic_door
+3501773764,toilet_for_disabled
+3501773773,chip_tuning
+3501773799,rooms_voicing
+3501773817,online_broadcasts
+3501778442,CSP
+3501778832,gazebo_rental
+3501779478,online_takeaway
+3501779832,planter
+3501781778,military_atelier
+3501786035,number_of_connectors
+3501786036,number_of_parking_spaces
+3501786039,parking_type
+3501786471,press_for_grapes
+3501787643,beauty_coworking
+3501789292,schienalі
+3501792408,wall_panels
+3501793680,florarium
+3501801715,occluders_opticludes
+3501803507,ferris_wheel
+3501806316,mansard_windows
+3501814557,iqos
+3501820537,new_year_gifts
+3501822933,free_excursions
+3501823885,printing_on_cakes
+3501827474,purchase_of_electronic_devices
+3501827489,credit_cards
+3501833069,electronic_registration_of_transactions
+3501833418,hotel_pansion
+3501839524,diagnostics_of_animal_diseases
+3501844201,gas_station_takeaway_shop
+3501854477,edible_bouquets
+3501878443,epassport_for_vehicles
+3501941331,it_services
+3501941361,virus_prevention
+3501941962,no_prepayment
+3501942001,free_measurement
+3501942075,guarantee
+3501942246,contract_conclusion
+3501942247,measuring
+3501942249,online_consultations
+3501942269,from_manufacturer
+3501942276,individual_sizes
+3501942279,turnkey
+3501942284,round_the_clock_support
+3501942295,installment
+3501942428,promotions
+3501945020,availability
+3501945049,processing_speed
+3501945100,upholstered_furniture
+3501945135,type_of_furniture
+3501948336,internet_marketing_services
+3501948407,real_estate_services
+3501961675,hotel_city_center_nearby
+3501964004,hotel_park_nearby
+3501964029,hotel_airport_nearby
+3501964032,hotel_sea_nearby
+3501964056,hotel_city_center_dist_category
+3501992267,yandex_smart_speaker
+3501997364,adv_hleb_i_vypecka_produkty_napitki
+3502003689,closed_for_without_qr
+3502010179,current_license
+3502010332,vid_division
+3502010539,registration_number
+3502010548,egr
+3502010918,call_button
+3502010929,elevator_wheelchair_accessible
+3502010932,ramp
+3502010938,wheelchair_accessible
+3502023279,types_of_bank_activities
+3502029228,takeout_to_car
+3502031788,indoor_plants
+3502040627,data_from_the_CB
+3502043655,report_upload_date
+3502043657,legal_name_organization
+3502043677,abbreviated_name
+3502043680,tin
+3502043705,international_name
+3502043737,meal
+3502044048,staff
+3502044229,atmosphere
+3502044237,cash_register
+3502044252,registration_process
+3502044665,food_quality
+3502044672,goods_quality
+3502044685,waiting_period
+3502044709,menu_range
+3502044741,rooms
+3502044748,service_quality
+3502044801,enjoyable_sound
+3502044826,org_territory
+3502044834,views
+3502045016,types_of_delivery
+3502045017,number_of_tables
+3502045032,non_cash_tips
+3502045280,cosy_atmosphere
+3502045286,romantic_atmosphere
+3502045289,beautiful_interior
+3502045294,unusual_interior
+3502045301,spacious
+3502045303,small_cafe
+3502045309,dancings
+3502045322,panoramic_view
+3502045326,new_organization
+3502045331,well_for_dating
+3502045336,well_for_big_company
+3502045340,well_for_business_meetings
+3502045342,well_for_family_dinner
+3502045395,well_atmosphere
+3502045402,unusual_concept
+3502045411,beautiful_serving_of_dishes
+3502045433,well_for_banquet
+3502045496,well_with_children
+3502045553,choice_variety
+3502045556,democracy
+3502045562,grill
+3502045597,foreign_chef
+3502045611,marriage
+3502046291,well_for_birthday_party
+3502046294,corporate_party
+3502046330,on_roof
+3502046337,restaurateur
+3502046339,chef
+3502047434,hqd
+3502053162,rating_of_moscow_schools_enum
+3502060253,michelin
+3502063466,card_big_button
+3502071401,hotel_city_center_distance_meters
+3502071402,hotel_sea_distance_meters
