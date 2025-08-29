@@ -28,18 +28,25 @@ def find_best_split(feature_vector, target_vector):
     """
     sorted_indices = np.argsort(feature_vector)
     sorted_features = feature_vector[sorted_indices]
+    # N
     sorted_targets = target_vector[sorted_indices]
 
+    #     1,1,2,3,3 |,4
+    # 1,| 1,2,3,3,4
     thresholds_idx = np.nonzero(sorted_features[:-1] != sorted_features[1:])[0]
     thresholds_value = (sorted_features[thresholds_idx] + sorted_features[thresholds_idx + 1]) / 2
 
+    # N
     targets_cumsum = np.cumsum(sorted_targets)
     total = len(sorted_targets)
 
+    # N
     RL = np.arange(1, len(sorted_targets) + 1)
     RR = total - RL
 
+    # N
     RL_p1 = targets_cumsum / RL
+    # N
     RL_p0 = 1 - RL_p1
 
     RR_p1 = (targets_cumsum[-1] - targets_cumsum) / RR
@@ -48,6 +55,7 @@ def find_best_split(feature_vector, target_vector):
     H_RL = 1 - RL_p1**2 - RL_p0**2
     H_RR = 1 - RR_p1**2 - RR_p0**2
 
+    # N
     Q = -(RL * H_RL + RR * H_RR) / total
 
     ginis = Q[thresholds_idx]
