@@ -1,6 +1,6 @@
 # ML misfits club
 
-## Abandoned in favour of [Little ML book club](https://github.com/fxlrnrpt/little_ml_book_club)
+> Abandoned in favour of [Little ML book club](https://github.com/fxlrnrpt/little_ml_book_club)!!!
 
 Hello ~~darkness my old friend~~ 👋    
 My name is Andrey and this year I have been rejected from every research program, internship, and summer school I applied to. 
